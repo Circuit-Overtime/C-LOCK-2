@@ -359,7 +359,8 @@ window.onblur = function () {
     link.rel = 'icon';
     document.head.appendChild(link);
   }
-  link.href = '/IMG/crying_clock.png';
+  link.href = 'https://github.com/Circuit-Overtime/C-LOCK-2/blob/main/IMG/crying_clock.png';
+  //
 }
 
 window.onfocus = function () {
@@ -371,6 +372,6 @@ window.onfocus = function () {
     link.rel = 'icon';
     document.head.appendChild(link);
   }
-  link.href = '/IMG/clock_ico.png';
+  link.href = 'https://github.com/Circuit-Overtime/C-LOCK-2/blob/main/IMG/clock_ico.png';
 
 }
