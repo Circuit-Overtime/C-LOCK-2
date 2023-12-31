@@ -58,6 +58,7 @@
 .navControls ion-icon:nth-child(2)
 {
     left: 15%;
+    pointer-events: none;
 }
 .navControls ion-icon:nth-child(3)
 {
